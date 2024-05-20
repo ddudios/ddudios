@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-42A5F5?style=flat-square&logo=visualstudiocode&logoColor=white"/>  
 <img src="https://img.shields.io/badge/GitHub-212121?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-212121?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-FF5722?style=flat-square&logo=figma&logoColor=white"/>
 
 
@@ -25,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [아이콘 사이트](https://simpleicons.org/)
 -->
