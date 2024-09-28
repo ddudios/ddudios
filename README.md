@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Xcode-1E88E5?style=flat-square&logo=xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-1A237E?style=flat-square&logo=eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/VisualStudioCode-42A5F5?style=flat-square&logo=visualstudiocode&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VisualStudioCode-42A5F5?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/SolidWorks-DD0700?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>  
 <img src="https://img.shields.io/badge/GitHub-212121?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-212121?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
